@@ -3,7 +3,7 @@
 ## Não corrija os erros em codigos, só documente.
 
 
-## Requisitos não funcionais
+## Requisitos funcionais
 ````
 1 - Relate todos os erros encontrados nas issues com comentários e links uteis.
 3 - Pode usar o proprio issues do github desse repositorio ou trello.
