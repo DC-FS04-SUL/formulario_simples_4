@@ -1,6 +1,6 @@
 # Formulário simples 4
 
-## Não corrija os erros em codigos, só documento.
+## Não corrija os erros em codigos, só documente.
 
 
 ## Requisitos não funcionais
