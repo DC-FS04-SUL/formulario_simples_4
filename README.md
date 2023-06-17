@@ -1,7 +1,7 @@
 # Formulário simples 4
 
-## Não corrija os erros em codigos, só documente.
-
+## Não corrija os erros em codigos só documente.
+## Utilize prints e marcarções para explicar os erros corretamente
 
 ## Requisitos funcionais
 ````
